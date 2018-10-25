@@ -1,0 +1,500 @@
+  104  git push -u origin master
+  105  git config --list
+  106  git push -u origin https://github.com/venky6363/venky-test--1.git
+  107  git push -u https://github.com/venky6363/venky-test--1.git
+  108  git log
+  109  git clone https://github.com/venky6363/venky-test--1.git
+  110  git remote add origin 
+  111  git push origin master
+  112  git config --global push .default "simple"
+  113  git config --global push.default "simple"
+  114  git push origin master
+  115  git config --global push .default "origin"
+  116  git config --global push.default "origin"
+  117  git push origin master
+  118  git config --global push.default "simple"
+  119  git remote add origin "
+  120  git remote add origin "https://github.com/venky6363/venky-test--1.git"
+  121  git push -u origin master
+  122   ls
+  123  cd venky-test--1
+  124  touch read me
+  125  ls
+  126  ls
+  127  cd
+  128  ls
+  129  cd f
+  130   cd git
+  131  cd /f/git
+  132  ls
+  133  clear
+  134  ls
+  135  cd venky-test--1
+  136  ls
+  137  cat t1.txt
+  138  cat >t1.txt
+  139  cat t1.txt
+  140  ls
+  141  git status
+  142  git commit -m "text file"
+  143  git add .
+  144  git status
+  145  cat t1.txt
+  146  git commit -m "text file"
+  147  git lg
+  148  git log
+  149  git push
+  150   cd .
+  151  cd..
+  152  cd ..
+  153  git push
+  154  git log
+  155  git status
+  156  git add .
+  157  git add .
+  158  git status
+  159  git commit -m " modified files"
+  160  git log
+  161  git push
+  162  ls
+  163  cat venky-test--1
+  164  cd venky-test--1
+  165  ls
+  166  git status
+  167  git log
+  168  git branch --unset-upstream
+  169  git status
+  170  git add .
+  171  git status
+  172  ls
+  173  git commit -m " text"
+  174  cd 
+  175  cd f/git
+  176  cd /f/git
+  177  ls
+  178  git log --one line
+  179  git log --oneline
+  180  git log
+  181  ls
+  182  cd venky-test--1
+  183  ls
+  184  cat t1.txt
+  185  git status
+  186  git push
+  187   git push origin master
+  188  cd ..
+  189  rm -r venky-test--1
+  190  ls
+  191  cd venky-test--1
+  192  ls
+  193  cd ..
+  194  ls
+  195  rmdir venky-test--1
+  196  rm -rf venky-test--1
+  197  ls
+  198  git log
+  199  git status
+  200  touch t1.txt
+  201  vi t1.txt
+  202  cat t1 .txt
+  203  cat t1.txt
+  204  git log
+  205  git status
+  206  git add .
+  207  git status
+  208  git commit -m "venki"
+  209  git log
+  210  git push
+  211  ls
+  212  rm .
+  213  git status
+  214  git log
+  215  clear
+  216  ls
+  217  git clone
+  218  git clone https://github.com/gurunand/Gitpractice.git
+  219  ls
+  220  cd Gitpractice
+  221  ls
+  222  vi file
+  223  cat file
+  224  git status
+  225  git add .
+  226  git status
+  227  git commit -m "file"
+  228  git lig
+  229  git log
+  230  git push
+  231  git remote add hai      modified files
+  232  commit e64d400e05b738699df50540774de4e5c55ac491
+  233  Author: venky <vreddy6363@gmail.com>
+  234  Date:   Mon Oct 22 12:35:14 2018 -0400
+  235      test commit1
+  236  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  237  $ git push
+  238  Enumerating objects: 4, done.
+  239  Counting objects: 100% (4/4), done.
+  240  Delta compression using up to 4 threads
+  241  Compressing objects: 100% (2/2), done.
+  242  Writing objects: 100% (3/3), 292 bytes | 292.00 KiB/s, done.
+  243  Total 3 (delta 1), reused 0 (delta 0)
+  244  remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+  245  To https://github.com/venky6363/venky-test--1.git
+  246     0f5b640..b673618  master -> master
+  247  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  248  $ ls
+  249  f1  t1  t1.txt  t2  t3  t4  t5
+  250  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  251  $ rm .
+  252  rm: cannot remove '.': Is a directory
+  253  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  254  $ git status
+  255  On branch master
+  256  Your branch is up to date with 'origin/master'.
+  257  nothing to commit, working tree clean
+  258  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  259  $ git log
+  260  commit b673618bc5494fec628f2f770ba026b9e88b9721 (HEAD -> master, origin/master)
+  261  Author: venky1 <vreddy6363@gmail.com>
+  262  Date:   Tue Oct 23 13:24:07 2018 -0400
+  263      venki
+  264  commit 0f5b6400eb618e1ee0c45ebab5899b43fd70bc2c
+  265  Author: venky1 <vreddy6363@gmail.com>
+  266  Date:   Tue Oct 23 12:53:55 2018 -0400
+  267       modified files
+  268  commit e64d400e05b738699df50540774de4e5c55ac491
+  269  Author: venky <vreddy6363@gmail.com>
+  270  Date:   Mon Oct 22 12:35:14 2018 -0400
+  271      test commit1
+  272  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  273  $ clear
+  274  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  275  $ ls
+  276  f1  t1  t1.txt  t2  t3  t4  t5
+  277  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  278  $ git clone
+  279  fatal: You must specify a repository to clone.
+  280  usage: git clone [<options>] [--] <repo> [<dir>]
+  281      -v, --verbose         be more verbose
+  282      -q, --quiet           be more quiet
+  283      --progress            force progress reporting
+  284      -n, --no-checkout     don't create a checkout
+  285      --bare                create a bare repository
+  286      --mirror              create a mirror repository (implies bare)
+  287      -l, --local           to clone from a local repository
+  288      --no-hardlinks        don't use local hardlinks, always copy
+  289      -s, --shared          setup as shared repository
+  290      --recurse-submodules[=<pathspec>]
+  291                            initialize submodules in the clone
+  292      -j, --jobs <n>        number of submodules cloned in parallel
+  293      --template <template-directory>
+  294                            directory from which templates will be used
+  295      --reference <repo>    reference repository
+  296      --reference-if-able <repo>
+  297                            reference repository
+  298      --dissociate          use --reference only while cloning
+  299      -o, --origin <name>   use <name> instead of 'origin' to track upstream
+  300      -b, --branch <branch>
+  301                            checkout <branch> instead of the remote's HEAD
+  302      -u, --upload-pack <path>
+  303                            path to git-upload-pack on the remote
+  304      --depth <depth>       create a shallow clone of that depth
+  305      --shallow-since <time>
+  306                            create a shallow clone since a specific time
+  307      --shallow-exclude <revision>
+  308                            deepen history of shallow clone, excluding rev
+  309      --single-branch       clone only one branch, HEAD or --branch
+  310      --no-tags             don't clone any tags, and make later fetches not to follow them
+  311      --shallow-submodules  any cloned submodules will be shallow
+  312      --separate-git-dir <gitdir>
+  313                            separate git dir from working tree
+  314      -c, --config <key=value>
+  315                            set config inside the new repository
+  316      -4, --ipv4            use IPv4 addresses only
+  317      -6, --ipv6            use IPv6 addresses only
+  318      --filter <args>       object filtering
+  319  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  320  $ git clone https://github.com/gurunand/Gitpractice.git
+  321  Cloning into 'Gitpractice'...
+  322  remote: Enumerating objects: 21, done.
+  323  remote: Counting objects: 100% (21/21), done.
+  324  remote: Compressing objects: 100% (11/11), done.
+  325  remote: Total 21 (delta 3), reused 15 (delta 2), pack-reused 0
+  326  Unpacking objects: 100% (21/21), done.
+  327  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  328  $ ls
+  329  f1  Gitpractice/  t1  t1.txt  t2  t3  t4  t5
+  330  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  331  $ cd ^C
+  332  satya@DESKTOP-7CKU2A0 MINGW64 /f/git (master)
+  333  $ cd Gitpractice
+  334  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  335  $ ls
+  336   file   file2  'hello world.txt'   helloworld.java   kk   README.md   README.txt   veridic/
+  337  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  338  $ vi file
+  339  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  340  $ cat file
+  341  mmmmm
+  342  mkdir
+  343  lskir
+  344  hikir
+  345  likiri
+  346  dmds smbcnx.k,cm s
+  347  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  348  $ git status
+  349  On branch master
+  350  Your branch is up to date with 'origin/master'.
+  351  Changes not staged for commit:
+  352    (use "git add <file>..." to update what will be committed)
+  353    (use "git checkout -- <file>..." to discard changes in working directory)
+  354          modified:   file
+  355  no changes added to commit (use "git add" and/or "git commit -a")
+  356  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  357  $ git add .
+  358  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  359  $ git status
+  360  On branch master
+  361  Your branch is up to date with 'origin/master'.
+  362  Changes to be committed:
+  363    (use "git reset HEAD <file>..." to unstage)
+  364          modified:   file
+  365  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  366  $ git commit -m "file"
+  367  [master 776ac8a] file
+  368   1 file changed, 6 insertions(+)
+  369  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  370  $ git lig
+  371  git: 'lig' is not a git command. See 'git --help'.
+  372  The most similar command is
+  373          log
+  374  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  375  $ git log
+  376  commit 776ac8a2848a0c7f8f1062d93e6b68e00f1cb634 (HEAD -> master)
+  377  Author: venky1 <vreddy6363@gmail.com>
+  378  Date:   Tue Oct 23 13:44:32 2018 -0400
+  379      file
+  380  commit 05ad140d7ebe20f21dfaa283f773479ac19642e5 (origin/master, origin/HEAD)
+  381  Merge: e2c3e1b e27b340
+  382  Author: root <root@instance-3.us-east1-b.c.mystical-pod-217816.internal>
+  383  Date:   Tue Oct 16 20:25:50 2018 +0000
+  384      Merge branch 'master' of https://github.com/gurunand/Gitpractice
+  385  commit e2c3e1bf02bd6dfb0f9085fc83dcafaedee79c82
+  386  Author: root <root@instance-3.us-east1-b.c.mystical-pod-217816.internal>
+  387  Date:   Tue Oct 16 20:17:29 2018 +0000
+  388      new file
+  389  commit 74846e56cbcb740d50d156737d406864ff0ca95e
+  390  Author: root <root@instance-3.us-east1-b.c.mystical-pod-217816.internal>
+  391  Date:   Tue Oct 16 20:02:33 2018 +0000
+  392      comment
+  393  commit e27b340c2b8c6bf06ec61f446844193e41980f02
+  394  Author: gurunand <32729006+gurunand@users.noreply.github.com>
+  395  Date:   Fri Oct 12 13:18:11 2018 -0400
+  396      Add files via upload
+  397  commit 5c2caf0e54651bb1dd7e472f338ed9d78d9bc40d
+  398  Author: Nandu <gurunand1993@gmail.com>
+  399  Date:   Thu Oct 4 14:55:48 2018 -0400
+  400      name change
+  401  commit 5fa4c2700185e579aae9099659f9ec0534277a0e
+  402  Author: gurunand <32729006+gurunand@users.noreply.github.com>
+  403  Date:   Thu Oct 4 12:23:34 2018 -0400
+  404      Initial commit
+  405  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  406  $ git push
+  407  remote: Permission to gurunand/Gitpractice.git denied to venky6363.
+  408  fatal: unable to access 'https://github.com/gurunand/Gitpractice.git/': The requested URL returned error: 403
+  409  satya@DESKTOP-7CKU2A0 MINGW64 /f/git/Gitpractice (master)
+  410  $ git remote add hai
+  411  ls
+  412  cat file
+  413  git remote add venky 
+  414  git remote add [<options>] <name> <url>
+  415  git remote add https://github.com/gurunand/Gitpractice.gi
+  416  git remote add file venky https://github.com/gurunand/Gitpractice.git 
+  417  git remote add venky https://github.com/gurunand/Gitpractice.git 
+  418  git remote
+  419  cd ..
+  420   clear
+  421  git status
+  422  git add .
+  423  git status
+  424  git log
+  425  git commit -m "vi"
+  426  git push
+  427  ls
+  428  git rm t1
+  429  ls
+  430  git push
+  431  git status
+  432  git add .
+  433  git commit -m "ki"
+  434  git push
+  435  ls
+  436  clear
+  437  git branch
+  438  git branch master-1
+  439  git branch
+  440  git checkout master-1
+  441   git status
+  442  git add.
+  443  git add .
+  444  git status
+  445  git commit -a
+  446  ls
+  447  rm -rf git practice
+  448  rm -rf git practicegit practice
+  449  rm- rf git practice
+  450  rm -rf Gitpractice
+  451  git checkout master
+  452  git branch
+  453  ls
+  454  cd Gitpractice
+  455  ls
+  456  cd ..
+  457  rmdir Gitpractice
+  458  git push
+  459  clear
+  460  git log --oneline
+  461  git checkout master-1
+  462  git log --oneline
+  463  touch klu1 klu2 klu3.txt
+  464  ls
+  465  git status
+  466  git add .
+  467  git status
+  468  git commit -m "klu"
+  469  git log --onleine
+  470  git log --oneline
+  471  git merge master
+  472  git checkout master
+  473  git log --oneline
+  474  git merge master-1
+  475  git log --oneline
+  476  git branch
+  477  git branch -d master-1
+  478  git branch
+  479   git log --author=venky
+  480   git log --author=venky1
+  481  git log --author=venky1 --oneline
+  482  git log --author=venky --oneline
+  483   ls
+  484  git clone git@github.com:gurunand/Gitpractice.git
+  485  ls
+  486  cd  Gitpractice/
+  487  ls
+  488  git remote -v
+  489  git -d Gitpractice
+  490  git -r Gitpractice
+  491  git clone https://github.com/gurunand/Gitpractice.git
+  492  ls
+  493  cd Gitpractice
+  494  ls
+  495  cat >>file
+  496  git add .
+  497  git commit -m "venky"
+  498  git remote -v
+  499  git push 
+  500   exit
+  501  cat third.txt
+  502  tclear
+  503  clear
+  504  clean
+  505  clear
+  506  ls
+  507  touch third.txt
+  508  ls
+  509  git init
+  510  git config --global user.name "venky"
+  511  git config --global user.email "vreddy6363@gmail.com"
+  512  git config --list
+  513  clear
+  514  git add third.txt
+  515  git commit -m "adding third.txt"
+  516  git log
+  517  git touch fourth.txt
+  518  clear
+  519  touch fourt.txt
+  520  git add .
+  521  git commit -m "fourth.txt"
+  522  ls
+  523  rm third.txt
+  524  ls
+  525  git add .
+  526  git commit -m "removing third.txt"
+  527  git log
+  528  core.pager=cat-
+  529  pager=cat-
+  530  ls
+  531  git clean
+  532  ls
+  533  git status
+  534  touch t1
+  535  git status
+  536  git clean
+  537  git status
+  538  ls
+  539  cat >>t1
+  540  git clean -f
+  541  ls
+  542  touch t1
+  543  git clean 
+  544  git clean -d t1
+  545  git clean -f t1
+  546  git clear
+  547  clear
+  548  git branch
+  549  git branch mater-x
+  550  git branch
+  551  ls
+  552  git fetch
+  553  ls
+  554  git branch -r
+  555  git config --list
+  556  git init
+  557  git config --global user.name "venky"
+  558  git config --global user.email "vreddy6363@gmail.com"
+  559  git config --list
+  560  touch t1 t2 t3 t4
+  561  git add .
+  562  git commit -m "my commit"
+  563  git log
+  564  git status
+  565  git reset --soft 0753ec1cfa12c425a033756fb126cea8182b32f6
+  566  git status
+  567  git reset --soft 
+  568  git reset --soft 
+  569  git reset --soft 6d105185c93b49a2d618e3b51a6bb6ac9eb32d96
+  570  git status
+  571  git clone https://github.com/gurunand/Gitpractice.git
+  572  ls
+  573  cd 
+  574  cd Gitpractice
+  575  cd /f/learn_git
+  576  ls
+  577  cd Gitpractice
+  578  ls
+  579  cat kk
+  580  cat >>kk
+  581  git add
+  582  git add .
+  583  git commit -m "venky"
+  584  git log
+  585  git push
+  586  ls
+  587   touch klu
+  588  ls
+  589  git add .
+  590  git commit -m "klu"
+  591  git push
+  592  git remote -v
+  593  ls | history
+  594  history 
+  595  history | grep git branch
+  596  history | grep git log
+  597  history | sort git log
+  598  history | head 10
+  599  history | head
+  600  history | sort "git log"
+  601  history | sed 'ls' history
+  602  history | sort 'ls' history
+  603  history | cat >t1 | grep "ls" t1
